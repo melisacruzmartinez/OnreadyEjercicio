@@ -1,7 +1,7 @@
 import java.util.ArrayList;
 import java.util.Collections;
 
-public class Listado {
+public class Consesionaria {
 
     static void listaStock() {
         ArrayList<Vehiculo> listadoVehiculos = new ArrayList<Vehiculo>();
